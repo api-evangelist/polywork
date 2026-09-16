@@ -34,9 +34,10 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-09-15'
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -44,8 +45,7 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 x-status: defunct
-x-status-evidence: 'polywork.com has no DNS records (no A/NS as of 2026-07-20); no
-  public API ever documented'
+x-status-evidence: polywork.com has no DNS records (no A/NS as of 2026-07-20); no public API ever documented
 x-enrichment:
   date: '2026-07-20'
   status: nochange
